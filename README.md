@@ -1,4 +1,5 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+Hosted Link:-https://ryukk-map-git-main-hilesh123s-projects.vercel.app
 # [RyukkMap] 🎯
 Background Story: Ryuk, the Shinigami, was tired of writing in his Death Note, so he created RyukkMap, a virtual guide for tracking souls. While designed for reapers, this tool could be useful to humans for insights into high-risk areas and unexplained deaths—if it ever fell into their hands.
 
