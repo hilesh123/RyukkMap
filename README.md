@@ -2,9 +2,11 @@
 Hosted Link:-https://ryukk-map-git-main-hilesh123s-projects.vercel.app
 # [RyukkMap] 🎯
 Story
+
 Ryuk, the Shinigami, was tired of writing in his Death Note. Wondering how human technology could help understand the living rather than just taking lives, he created RyukkMap—a virtual guide for tracking souls. Designed for reapers, this tool, powered by the AI ThanatosGPT, offers insights into high-risk areas and unexplained deaths, if it ever fell into human hands. Legends say that the mysteries of the unseen world are revealed through the AI Ryuk employs.
 
 Features
+
 RyukkMap features a 3D world map with animated visuals of houses, living beings, and souls. Users can toggle an infrared filter to view living beings inside houses. ThanatosGPT provides detailed information about living beings, souls, houses, roads, and areas, and offers search functionality for specific details. The map includes data overlays for population density, accident rate density, and death rate density, with clickable areas revealing detailed data charts. AI-driven predictive analytics forecast future accidents, population changes, and other trends.
 
 In addition to these primary features, RyukkMap could revolutionize various sectors if it ever fell into human hands. Governments could use it for planning infrastructure, managing traffic, and preparing for disasters. Businesses could gain insights into consumer behavior and market trends. Researchers and academics could access valuable data for demographic studies and predictive models. Law enforcement could utilize tools for crime analysis and predictive policing, and educators could leverage interactive maps and charts for teaching data analysis and geographic information systems (GIS).
